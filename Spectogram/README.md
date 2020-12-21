@@ -12,10 +12,10 @@
 **Spectogram with dali**
 ![dali](dali.jpg?raw=true)
 
-Average error: 0.00098 dB
+Average error: 0.00047 dB
 
-Time librosa:  0.09880566596984863
+Time librosa:  0.45842480659484863
 
-Time dali:  0.04160761833190918
+Time dali:  0.08977746963500977
 
-Speed up x 2.374701315073203
+Speed up x 5.106234431183841
