@@ -1,6 +1,6 @@
 ## Умножение матриц на GPU с CUDA 
 **Язык программирования**: Python, v = 3.x.x\
-**IDE**: google colab
+**IDE**: Jupyter-notebook
 
 ### Информация о процессоре 
 AMD Ryzen 7 2700
